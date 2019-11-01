@@ -4,10 +4,10 @@ import json
 import os
 import jsonpickle
 
-consumer_key= "XAowutdob8IOggCjcSdBB47Gf"
-consumer_secret="dcevFj3NyIL245p7V2qwuCBMi97BN70gGXakpvr37aQbQSDdo7"
-access_token="1038144593756409857-Thes02wIWfwY0kAbNgbJk1qcP3BxAb"
-access_token_secret="ps8B0AmQVHhK1ndqvYLKRRJsmqBtn0e5bXOaradUzb2i3"
+consumer_key= "xxxxxxxxxxxxxxxxxxxxxxxxxxxxf"
+consumer_secret="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token="xxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxx"
+access_token_secret="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 
